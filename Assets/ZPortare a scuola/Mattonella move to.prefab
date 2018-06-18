@@ -793,7 +793,7 @@ MonoBehaviour:
       - fsmEvent:
           name: "Non la vedo pi\xF9"
           isSystemEvent: 0
-          isGlobal: 0
+          isGlobal: 1
         toState: devo guardarla
         linkStyle: 0
         linkConstraint: 0
@@ -943,7 +943,7 @@ MonoBehaviour:
       - fsmEvent:
           name: Non posso Sparare
           isSystemEvent: 0
-          isGlobal: 0
+          isGlobal: 1
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -951,7 +951,7 @@ MonoBehaviour:
       - fsmEvent:
           name: PossoSparare
           isSystemEvent: 0
-          isGlobal: 0
+          isGlobal: 1
         toState: Lo faccio!
         linkStyle: 0
         linkConstraint: 0
@@ -1042,7 +1042,7 @@ MonoBehaviour:
       - fsmEvent:
           name: NonPossoAccorciare
           isSystemEvent: 0
-          isGlobal: 0
+          isGlobal: 1
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -1116,7 +1116,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 0
+          isGlobal: 1
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -1221,7 +1221,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 0
+          isGlobal: 1
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -1373,7 +1373,7 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 0
+    preprocessed: 1
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
@@ -1610,7 +1610,7 @@ MonoBehaviour:
       - fsmEvent:
           name: "Non la vedo pi\xF9"
           isSystemEvent: 0
-          isGlobal: 0
+          isGlobal: 1
         toState: devo guardarla
         linkStyle: 0
         linkConstraint: 0
@@ -1760,7 +1760,7 @@ MonoBehaviour:
       - fsmEvent:
           name: Non posso Sparare
           isSystemEvent: 0
-          isGlobal: 0
+          isGlobal: 1
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -1768,7 +1768,7 @@ MonoBehaviour:
       - fsmEvent:
           name: PossoSparare
           isSystemEvent: 0
-          isGlobal: 0
+          isGlobal: 1
         toState: Lo faccio!
         linkStyle: 0
         linkConstraint: 0
@@ -1859,7 +1859,7 @@ MonoBehaviour:
       - fsmEvent:
           name: NonPossoAccorciare
           isSystemEvent: 0
-          isGlobal: 0
+          isGlobal: 1
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -1933,7 +1933,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 0
+          isGlobal: 1
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -2038,7 +2038,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 0
+          isGlobal: 1
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -2190,7 +2190,7 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 0
+    preprocessed: 1
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
@@ -2579,7 +2579,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 0
+          isGlobal: 1
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -2634,7 +2634,8 @@ MonoBehaviour:
               tooltip: 
               showInInspector: 0
               networkSync: 0
-              value: {fileID: 100000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
+              value: {fileID: 1594645404165874, guid: 58b27ae02f7c8a14c97ecfdf6853ad64,
+                type: 2}
           fsmName:
             useVariable: 0
             name: 
@@ -2751,7 +2752,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 0
+          isGlobal: 1
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -2806,7 +2807,8 @@ MonoBehaviour:
               tooltip: 
               showInInspector: 0
               networkSync: 0
-              value: {fileID: 100000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
+              value: {fileID: 1594645404165874, guid: 58b27ae02f7c8a14c97ecfdf6853ad64,
+                type: 2}
           fsmName:
             useVariable: 0
             name: 
@@ -2923,7 +2925,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 0
+          isGlobal: 1
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -2978,7 +2980,8 @@ MonoBehaviour:
               tooltip: 
               showInInspector: 0
               networkSync: 0
-              value: {fileID: 100000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
+              value: {fileID: 1594645404165874, guid: 58b27ae02f7c8a14c97ecfdf6853ad64,
+                type: 2}
           fsmName:
             useVariable: 0
             name: 
@@ -3095,7 +3098,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 0
+          isGlobal: 1
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -3150,7 +3153,8 @@ MonoBehaviour:
               tooltip: 
               showInInspector: 0
               networkSync: 0
-              value: {fileID: 100000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
+              value: {fileID: 1594645404165874, guid: 58b27ae02f7c8a14c97ecfdf6853ad64,
+                type: 2}
           fsmName:
             useVariable: 0
             name: 
@@ -3267,7 +3271,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 0
+          isGlobal: 1
         toState: State 4
         linkStyle: 0
         linkConstraint: 0
@@ -3322,7 +3326,8 @@ MonoBehaviour:
               tooltip: 
               showInInspector: 0
               networkSync: 0
-              value: {fileID: 100000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
+              value: {fileID: 1594645404165874, guid: 58b27ae02f7c8a14c97ecfdf6853ad64,
+                type: 2}
           fsmName:
             useVariable: 0
             name: 
@@ -3439,7 +3444,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 0
+          isGlobal: 1
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -3494,7 +3499,8 @@ MonoBehaviour:
               tooltip: 
               showInInspector: 0
               networkSync: 0
-              value: {fileID: 100000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
+              value: {fileID: 1594645404165874, guid: 58b27ae02f7c8a14c97ecfdf6853ad64,
+                type: 2}
           fsmName:
             useVariable: 0
             name: 
@@ -3611,7 +3617,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 0
+          isGlobal: 1
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -3698,7 +3704,8 @@ MonoBehaviour:
               tooltip: 
               showInInspector: 0
               networkSync: 0
-              value: {fileID: 0}
+              value: {fileID: 1594645404165874, guid: 58b27ae02f7c8a14c97ecfdf6853ad64,
+                type: 2}
           fsmName:
             useVariable: 0
             name: 
@@ -4164,7 +4171,7 @@ MonoBehaviour:
       - fsmEvent:
           name: "Non la vedo pi\xF9"
           isSystemEvent: 0
-          isGlobal: 0
+          isGlobal: 1
         toState: devo guardarla
         linkStyle: 0
         linkConstraint: 0
@@ -4314,7 +4321,7 @@ MonoBehaviour:
       - fsmEvent:
           name: Non posso Sparare
           isSystemEvent: 0
-          isGlobal: 0
+          isGlobal: 1
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -4322,7 +4329,7 @@ MonoBehaviour:
       - fsmEvent:
           name: PossoSparare
           isSystemEvent: 0
-          isGlobal: 0
+          isGlobal: 1
         toState: Lo faccio!
         linkStyle: 0
         linkConstraint: 0
@@ -4413,7 +4420,7 @@ MonoBehaviour:
       - fsmEvent:
           name: NonPossoAccorciare
           isSystemEvent: 0
-          isGlobal: 0
+          isGlobal: 1
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -4487,7 +4494,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 0
+          isGlobal: 1
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -4592,7 +4599,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 0
+          isGlobal: 1
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -4744,7 +4751,7 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 0
+    preprocessed: 1
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
@@ -4981,7 +4988,7 @@ MonoBehaviour:
       - fsmEvent:
           name: "Non la vedo pi\xF9"
           isSystemEvent: 0
-          isGlobal: 0
+          isGlobal: 1
         toState: devo guardarla
         linkStyle: 0
         linkConstraint: 0
@@ -5131,7 +5138,7 @@ MonoBehaviour:
       - fsmEvent:
           name: Non posso Sparare
           isSystemEvent: 0
-          isGlobal: 0
+          isGlobal: 1
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -5139,7 +5146,7 @@ MonoBehaviour:
       - fsmEvent:
           name: PossoSparare
           isSystemEvent: 0
-          isGlobal: 0
+          isGlobal: 1
         toState: Lo faccio!
         linkStyle: 0
         linkConstraint: 0
@@ -5230,7 +5237,7 @@ MonoBehaviour:
       - fsmEvent:
           name: NonPossoAccorciare
           isSystemEvent: 0
-          isGlobal: 0
+          isGlobal: 1
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -5304,7 +5311,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 0
+          isGlobal: 1
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -5409,7 +5416,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 0
+          isGlobal: 1
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -5561,7 +5568,7 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 0
+    preprocessed: 1
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
