@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -1336,7 +1336,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Chiamata
       isSystemEvent: 0
       isGlobal: 1
@@ -1421,7 +1421,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 9dfc03e08f1d40f45a9f8eac8cc554ae, type: 2}
+  - {fileID: 2100000, guid: d3ea4d5d138da594d970f08dba4bf459, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2237,7 +2237,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -3846,7 +3846,7 @@ MonoBehaviour:
     events:
     - name: TRIGGER ENTER
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     globalTransitions: []
     variables:
       floatVariables: []
@@ -4686,7 +4686,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -5343,7 +5343,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1016905384}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 5.46, y: 0.26788568, z: -0.5600016}
+  m_LocalPosition: {x: 5.46, y: 0.26788568, z: -0.84}
   m_LocalScale: {x: 5, y: 11, z: 1}
   m_Children: []
   m_Father: {fileID: 1868116103}
@@ -5364,7 +5364,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 9dfc03e08f1d40f45a9f8eac8cc554ae, type: 2}
+  - {fileID: 2100000, guid: 6947c2d80c070f74187cb2b7a456aed4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -6895,7 +6895,7 @@ MonoBehaviour:
     events:
     - name: TRIGGER ENTER
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Chiamata
       isSystemEvent: 0
       isGlobal: 1
@@ -9531,7 +9531,7 @@ MonoBehaviour:
     events:
     - name: TRIGGER ENTER
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Possopartire
       isSystemEvent: 0
       isGlobal: 1
@@ -10912,7 +10912,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -12653,7 +12653,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -14034,7 +14034,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1

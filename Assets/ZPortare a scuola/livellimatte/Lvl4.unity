@@ -958,7 +958,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -2482,7 +2482,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -3139,13 +3139,13 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: TRIGGER ENTER
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: TRIGGER EXIT
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Resetta Cursore
       isSystemEvent: 0
       isGlobal: 1
@@ -3779,7 +3779,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -4731,7 +4731,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -6472,7 +6472,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -7135,7 +7135,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -8176,7 +8176,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -9262,7 +9262,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -11003,7 +11003,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -12037,7 +12037,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -13778,7 +13778,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -14603,7 +14603,7 @@ MonoBehaviour:
     events:
     - name: TRIGGER ENTER
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: 1volta
       isSystemEvent: 0
       isGlobal: 1
@@ -15493,7 +15493,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -17690,7 +17690,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -18957,7 +18957,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -20178,7 +20178,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -21103,7 +21103,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -22346,7 +22346,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -23776,7 +23776,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -25418,7 +25418,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -25908,7 +25908,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -26420,7 +26420,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -27283,7 +27283,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -28243,7 +28243,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -29526,7 +29526,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -31044,7 +31044,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -31964,7 +31964,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -33705,7 +33705,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -35964,7 +35964,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -37172,7 +37172,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1801470636}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -376.8, y: 1.1380653, z: -187.47998}
+  m_LocalPosition: {x: -376.8, y: 1.96, z: -187.47998}
   m_LocalScale: {x: 1, y: 12, z: 9.600018}
   m_Children: []
   m_Father: {fileID: 0}
@@ -37192,7 +37192,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: c1445e2892675b24080f04e0f9951ffe, type: 2}
+  - {fileID: 2100000, guid: f41726a44273d5c44823c7dd6c0ec848, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -37407,7 +37407,7 @@ MonoBehaviour:
     events:
     - name: TRIGGER ENTER
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     globalTransitions: []
     variables:
       floatVariables: []
@@ -38376,7 +38376,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -40013,7 +40013,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: 1volta
       isSystemEvent: 0
       isGlobal: 1
@@ -41902,7 +41902,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -42990,7 +42990,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -44731,7 +44731,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -45938,7 +45938,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -46642,7 +46642,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1

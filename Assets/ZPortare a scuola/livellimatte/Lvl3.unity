@@ -613,7 +613,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 124394666}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -72.81, y: 4.337001, z: -2.86}
+  m_LocalPosition: {x: -74.16, y: 4.337001, z: -2.86}
   m_LocalScale: {x: 3, y: 1, z: 7}
   m_Children: []
   m_Father: {fileID: 226997634}
@@ -1738,7 +1738,6 @@ Transform:
   m_Children:
   - {fileID: 1607834737}
   - {fileID: 330296929}
-  - {fileID: 1022330517}
   - {fileID: 1831360766}
   - {fileID: 1924541331}
   m_Father: {fileID: 0}
@@ -1904,7 +1903,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 330296928}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 5.22001, y: -0.1021142, z: -0.16000003}
+  m_LocalPosition: {x: 5.18, y: -0.94, z: -1.25}
   m_LocalScale: {x: 5, y: 11, z: 1}
   m_Children: []
   m_Father: {fileID: 269878448}
@@ -1925,7 +1924,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 9dfc03e08f1d40f45a9f8eac8cc554ae, type: 2}
+  - {fileID: 2100000, guid: 6947c2d80c070f74187cb2b7a456aed4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2333,7 +2332,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 400846439}
   m_LocalRotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
-  m_LocalPosition: {x: -73.89, y: 1.4270006, z: -2.48}
+  m_LocalPosition: {x: -75.240005, y: 1.4270006, z: -2.48}
   m_LocalScale: {x: 7, y: 1, z: 5}
   m_Children: []
   m_Father: {fileID: 226997634}
@@ -7023,95 +7022,6 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1004247539}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1 &1022330516
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 1698646776997666, guid: fa7d2c382052b5d4e8e1f707c5bc8915,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 5
-  m_Component:
-  - component: {fileID: 1022330517}
-  - component: {fileID: 1022330520}
-  - component: {fileID: 1022330519}
-  - component: {fileID: 1022330518}
-  m_Layer: 0
-  m_Name: Cube (4)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1022330517
-Transform:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 4956840318821594, guid: fa7d2c382052b5d4e8e1f707c5bc8915,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1022330516}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -5.1599903, y: -0.1021142, z: -0.21000002}
-  m_LocalScale: {x: 5, y: 11, z: 1}
-  m_Children: []
-  m_Father: {fileID: 269878448}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!23 &1022330518
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 23046703937228996, guid: fa7d2c382052b5d4e8e1f707c5bc8915,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1022330516}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_Materials:
-  - {fileID: 2100000, guid: 9dfc03e08f1d40f45a9f8eac8cc554ae, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_PreserveUVs: 1
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 0
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
---- !u!65 &1022330519
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 65556108051318642, guid: fa7d2c382052b5d4e8e1f707c5bc8915,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1022330516}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!33 &1022330520
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 33315701413204988, guid: fa7d2c382052b5d4e8e1f707c5bc8915,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1022330516}
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &1028638306
 GameObject:
   m_ObjectHideFlags: 0
@@ -7741,7 +7651,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1122738251}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -72.81, y: -1.0729994, z: -3.181}
+  m_LocalPosition: {x: -74.16, y: -1.0729994, z: -3.181}
   m_LocalScale: {x: 3, y: 1, z: 7}
   m_Children: []
   m_Father: {fileID: 226997634}
@@ -7923,7 +7833,7 @@ MonoBehaviour:
     events:
     - name: TRIGGER ENTER
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     globalTransitions: []
     variables:
       floatVariables: []
@@ -10784,13 +10694,13 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: TRIGGER ENTER
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: TRIGGER EXIT
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Resetta Cursore
       isSystemEvent: 0
       isGlobal: 1
@@ -11371,7 +11281,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Chiamata
       isSystemEvent: 0
       isGlobal: 1
@@ -11456,7 +11366,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 9dfc03e08f1d40f45a9f8eac8cc554ae, type: 2}
+  - {fileID: 2100000, guid: 4985413b117c9604a878a59dd6c03c38, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -11505,7 +11415,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1607834732}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.24, y: -0.37, z: 0}
+  m_LocalPosition: {x: -0.08, y: -0.37, z: -0.93}
   m_LocalScale: {x: 6, y: 10, z: 0.19999999}
   m_Children: []
   m_Father: {fileID: 269878448}
@@ -12306,7 +12216,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1765965519}
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -72.84, y: 1.307, z: 0.505}
+  m_LocalPosition: {x: -74.19, y: 1.307, z: 0.505}
   m_LocalScale: {x: 3, y: 1.0000005, z: 5.000002}
   m_Children: []
   m_Father: {fileID: 226997634}
@@ -13226,7 +13136,7 @@ MonoBehaviour:
     events:
     - name: TRIGGER ENTER
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Chiamata
       isSystemEvent: 0
       isGlobal: 1
@@ -13364,12 +13274,12 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1831360761}
   m_LocalRotation: {x: 0.7056538, y: -0, z: 0.000000029802322, w: 0.7085569}
-  m_LocalPosition: {x: -4.98, y: -3.856, z: 0.032}
+  m_LocalPosition: {x: -4.98, y: -3.86, z: -0.94}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_Children:
   - {fileID: 2143737926}
   m_Father: {fileID: 269878448}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 89.767006, y: 0.001, z: 0.001}
 --- !u!1 &1832736960
 GameObject:
@@ -13740,7 +13650,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 269878448}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1924541332
 MonoBehaviour:
@@ -13958,7 +13868,7 @@ MonoBehaviour:
     events:
     - name: TRIGGER ENTER
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Possopartire
       isSystemEvent: 0
       isGlobal: 1
@@ -14459,7 +14369,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1992847267}
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -72.84, y: 1.3069998, z: -6.5400085}
+  m_LocalPosition: {x: -74.19, y: 1.3069998, z: -6.5400085}
   m_LocalScale: {x: 3, y: 1.0000005, z: 5.000002}
   m_Children: []
   m_Father: {fileID: 226997634}
