@@ -1904,7 +1904,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 330296928}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 5.46, y: 0.26788568, z: -0.16}
+  m_LocalPosition: {x: 5.22001, y: -0.1021142, z: -0.16000003}
   m_LocalScale: {x: 5, y: 11, z: 1}
   m_Children: []
   m_Father: {fileID: 269878448}
@@ -7050,7 +7050,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1022330516}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4.92, y: 0.26788568, z: -0.21}
+  m_LocalPosition: {x: -5.1599903, y: -0.1021142, z: -0.21000002}
   m_LocalScale: {x: 5, y: 11, z: 1}
   m_Children: []
   m_Father: {fileID: 269878448}
@@ -7923,7 +7923,7 @@ MonoBehaviour:
     events:
     - name: TRIGGER ENTER
       isSystemEvent: 1
-      isGlobal: 0
+      isGlobal: 1
     globalTransitions: []
     variables:
       floatVariables: []
@@ -10613,7 +10613,7 @@ MonoBehaviour:
       - fsmEvent:
           name: TRIGGER EXIT
           isSystemEvent: 1
-          isGlobal: 0
+          isGlobal: 1
         toState: State 1
         linkStyle: 0
         linkConstraint: 0
@@ -10787,10 +10787,10 @@ MonoBehaviour:
       isGlobal: 1
     - name: TRIGGER ENTER
       isSystemEvent: 1
-      isGlobal: 0
+      isGlobal: 1
     - name: TRIGGER EXIT
       isSystemEvent: 1
-      isGlobal: 0
+      isGlobal: 1
     - name: Resetta Cursore
       isSystemEvent: 0
       isGlobal: 1
@@ -11505,7 +11505,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1607834732}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -0.24, y: -0.37, z: 0}
   m_LocalScale: {x: 6, y: 10, z: 0.19999999}
   m_Children: []
   m_Father: {fileID: 269878448}
@@ -13226,7 +13226,7 @@ MonoBehaviour:
     events:
     - name: TRIGGER ENTER
       isSystemEvent: 1
-      isGlobal: 0
+      isGlobal: 1
     - name: Chiamata
       isSystemEvent: 0
       isGlobal: 1
@@ -13364,7 +13364,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1831360761}
   m_LocalRotation: {x: 0.7056538, y: -0, z: 0.000000029802322, w: 0.7085569}
-  m_LocalPosition: {x: -4.74, y: -2.89, z: 0.03}
+  m_LocalPosition: {x: -4.98, y: -3.856, z: 0.032}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_Children:
   - {fileID: 2143737926}
@@ -13958,7 +13958,7 @@ MonoBehaviour:
     events:
     - name: TRIGGER ENTER
       isSystemEvent: 1
-      isGlobal: 0
+      isGlobal: 1
     - name: Possopartire
       isSystemEvent: 0
       isGlobal: 1
@@ -14933,7 +14933,7 @@ Transform:
   m_GameObject: {fileID: 2043684330}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -72.47813, y: 22.123518, z: -3.6417732}
-  m_LocalScale: {x: 1, y: 25, z: 9.6}
+  m_LocalScale: {x: 1, y: 27, z: 9.6}
   m_Children: []
   m_Father: {fileID: 226997634}
   m_RootOrder: 11

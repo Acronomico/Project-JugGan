@@ -921,7 +921,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 61723926}
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 13.96088, y: 0.24789047, z: 0.9}
+  m_LocalPosition: {x: 13.96088, y: 0.25, z: 10.97}
   m_LocalScale: {x: 50, y: 1, z: 20}
   m_Children: []
   m_Father: {fileID: 621910257}
@@ -2077,7 +2077,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -4848,15 +4848,15 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400000, guid: c3200e2cc1c069f47991eec95d030080, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 44.68
+      value: 46.67
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c3200e2cc1c069f47991eec95d030080, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -8.44
+      value: -5.8
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c3200e2cc1c069f47991eec95d030080, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 101.93
+      value: 104.15
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c3200e2cc1c069f47991eec95d030080, type: 3}
       propertyPath: m_LocalRotation.x
@@ -7289,7 +7289,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -9529,15 +9529,15 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400000, guid: c3200e2cc1c069f47991eec95d030080, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 44.68
+      value: 45.19
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c3200e2cc1c069f47991eec95d030080, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -8.44
+      value: -6.94
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c3200e2cc1c069f47991eec95d030080, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 101.93
+      value: 103.18
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c3200e2cc1c069f47991eec95d030080, type: 3}
       propertyPath: m_LocalRotation.x
@@ -10900,7 +10900,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -13340,7 +13340,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -15081,7 +15081,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -16087,7 +16087,7 @@ MonoBehaviour:
     events:
     - name: TRIGGER ENTER
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     globalTransitions: []
     variables:
       floatVariables: []
@@ -16711,7 +16711,7 @@ MonoBehaviour:
     events:
     - name: TRIGGER ENTER
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Call
       isSystemEvent: 0
       isGlobal: 1
@@ -17582,7 +17582,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 989569119}
   m_LocalRotation: {x: -0.40821788, y: 0.23456968, z: -0.10938163, w: 0.8754261}
-  m_LocalPosition: {x: 36.719154, y: -17.466331, z: 111.01557}
+  m_LocalPosition: {x: 37.229153, y: -15.966334, z: 112.265564}
   m_LocalScale: {x: 3, y: 2.9000006, z: 3}
   m_Children: []
   m_Father: {fileID: 1086989520}
@@ -19430,7 +19430,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -20768,7 +20768,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -22488,7 +22488,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -23343,10 +23343,10 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: TRIGGER ENTER
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Allungo_automatico
       isSystemEvent: 0
       isGlobal: 1
@@ -23494,15 +23494,15 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400000, guid: f769ab7350b5ed640a83a1cc21451a12, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 37.129658
+      value: 37.639656
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f769ab7350b5ed640a83a1cc21451a12, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -18.970566
+      value: -17.47057
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f769ab7350b5ed640a83a1cc21451a12, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 111.48746
+      value: 112.73745
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f769ab7350b5ed640a83a1cc21451a12, type: 3}
       propertyPath: m_LocalRotation.x
@@ -24413,8 +24413,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1454219023}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 13.96088, y: 9.947891, z: 10.9}
-  m_LocalScale: {x: 50, y: 1, z: 20}
+  m_LocalPosition: {x: 13.96088, y: 9.947891, z: 15.52}
+  m_LocalScale: {x: 50, y: 1, z: 10}
   m_Children: []
   m_Father: {fileID: 621910257}
   m_RootOrder: 16
@@ -27310,7 +27310,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -29247,7 +29247,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -30988,7 +30988,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -32813,7 +32813,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -33342,7 +33342,7 @@ MonoBehaviour:
     events:
     - name: TRIGGER ENTER
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     globalTransitions: []
     variables:
       floatVariables: []
@@ -36477,7 +36477,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -36650,15 +36650,15 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400000, guid: f769ab7350b5ed640a83a1cc21451a12, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 37.129658
+      value: 39.11965
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f769ab7350b5ed640a83a1cc21451a12, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -18.970566
+      value: -16.330576
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f769ab7350b5ed640a83a1cc21451a12, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 111.48746
+      value: 113.70745
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f769ab7350b5ed640a83a1cc21451a12, type: 3}
       propertyPath: m_LocalRotation.x
@@ -37888,7 +37888,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -39629,7 +39629,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -40856,7 +40856,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2130398110}
   m_LocalRotation: {x: -0.40821788, y: 0.23456968, z: -0.10938163, w: 0.8754261}
-  m_LocalPosition: {x: 36.719154, y: -17.466331, z: 111.01557}
+  m_LocalPosition: {x: 38.70915, y: -14.826342, z: 113.235565}
   m_LocalScale: {x: 3, y: 2.9000006, z: 3}
   m_Children: []
   m_Father: {fileID: 1250293509}
