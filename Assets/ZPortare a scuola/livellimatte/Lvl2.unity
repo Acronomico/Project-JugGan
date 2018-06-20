@@ -3731,6 +3731,10 @@ MonoBehaviour:
     handleAnimatorIK: 0
   fsmTemplate: {fileID: 0}
   eventHandlerComponentsAdded: 0
+--- !u!1 &783157217 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 100002, guid: 5afac40533f8a324691a69ac1d69bf00, type: 3}
+  m_PrefabInternal: {fileID: 1054210037}
 --- !u!4 &783611483
 Transform:
   m_ObjectHideFlags: 0
@@ -8786,7 +8790,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            value: {fileID: 0}
+            value: {fileID: 783157217}
         animationCurveParams: []
         functionCallParams: []
         fsmTemplateControlParams: []
@@ -8866,7 +8870,7 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 1
+    preprocessed: 0
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
