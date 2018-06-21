@@ -29,6 +29,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/ZPortare a scuola/livellimatte/Lvl7.unity
     guid: 6aaf9f7386e041342947dfc17036cea0
-  - enabled: 1
-    path: Assets/ZPortare a scuola/livellimatte/Lvl8.unity
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/aa5ab5afa32f81f4086c8a0c5fd14a33
     guid: aa5ab5afa32f81f4086c8a0c5fd14a33
