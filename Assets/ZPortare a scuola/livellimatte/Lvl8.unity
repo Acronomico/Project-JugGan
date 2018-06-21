@@ -1576,7 +1576,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -1681,7 +1681,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -1773,7 +1773,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -2869,7 +2869,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -2974,7 +2974,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -3066,7 +3066,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -3794,7 +3794,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -3899,7 +3899,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -3991,7 +3991,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -4749,7 +4749,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -4854,7 +4854,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -4946,7 +4946,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -5861,7 +5861,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -5966,7 +5966,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -6058,7 +6058,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -6508,7 +6508,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -6680,7 +6680,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -6852,7 +6852,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -7024,7 +7024,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -7196,7 +7196,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 4
         linkStyle: 0
         linkConstraint: 0
@@ -7368,7 +7368,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -7540,7 +7540,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -7799,7 +7799,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -7907,7 +7907,11 @@ Transform:
   - {fileID: 1850250708}
   - {fileID: 1303166562}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 38
+=======
+  m_RootOrder: 20
+>>>>>>> 351cf816c371dfca9281a0388228912b7b684410
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!1 &144639250
 GameObject:
@@ -8762,7 +8766,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -8867,7 +8871,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -8959,7 +8963,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -9409,7 +9413,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -9581,7 +9585,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -9753,7 +9757,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -9925,7 +9929,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -10097,7 +10101,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 4
         linkStyle: 0
         linkConstraint: 0
@@ -10269,7 +10273,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -10441,7 +10445,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -10700,7 +10704,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -10808,7 +10812,11 @@ Transform:
   - {fileID: 724316273}
   - {fileID: 383310238}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 31
+=======
+  m_RootOrder: 13
+>>>>>>> 351cf816c371dfca9281a0388228912b7b684410
   m_LocalEulerAnglesHint: {x: 180, y: 90, z: 0}
 --- !u!1001 &164090905
 Prefab:
@@ -11482,7 +11490,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -11587,7 +11595,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -11679,7 +11687,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -13080,7 +13088,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -13185,7 +13193,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -13277,7 +13285,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -13727,7 +13735,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -13899,7 +13907,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -14071,7 +14079,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -14243,7 +14251,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -14415,7 +14423,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 4
         linkStyle: 0
         linkConstraint: 0
@@ -14587,7 +14595,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -14759,7 +14767,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -15018,7 +15026,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -15126,7 +15134,11 @@ Transform:
   - {fileID: 1221512116}
   - {fileID: 625866664}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 29
+=======
+  m_RootOrder: 11
+>>>>>>> 351cf816c371dfca9281a0388228912b7b684410
   m_LocalEulerAnglesHint: {x: 180, y: 0, z: 0}
 --- !u!1001 &223258210
 Prefab:
@@ -16626,7 +16638,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 317817655}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -209.32, y: -21.32, z: 100.53}
+  m_LocalPosition: {x: -209.32, y: -21.32, z: 101.98}
   m_LocalScale: {x: 15, y: 1, z: 16.905336}
   m_Children: []
   m_Father: {fileID: 0}
@@ -17654,7 +17666,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -17759,7 +17771,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -17851,7 +17863,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -18895,7 +18907,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -19000,7 +19012,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -19092,7 +19104,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -20054,7 +20066,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -20159,7 +20171,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -20251,7 +20263,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -20814,7 +20826,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 22
+=======
+  m_RootOrder: 4
+>>>>>>> 351cf816c371dfca9281a0388228912b7b684410
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &461039665
 GameObject:
@@ -21559,7 +21575,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -21664,7 +21680,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -21756,7 +21772,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -22206,7 +22222,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -22378,7 +22394,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -22550,7 +22566,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -22722,7 +22738,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -22894,7 +22910,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 4
         linkStyle: 0
         linkConstraint: 0
@@ -23066,7 +23082,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -23238,7 +23254,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -23497,7 +23513,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -23605,7 +23621,11 @@ Transform:
   - {fileID: 692864858}
   - {fileID: 1910958858}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 35
+=======
+  m_RootOrder: 17
+>>>>>>> 351cf816c371dfca9281a0388228912b7b684410
   m_LocalEulerAnglesHint: {x: 180, y: 90, z: 0}
 --- !u!1001 &479919393
 Prefab:
@@ -24737,7 +24757,11 @@ Transform:
   m_LocalScale: {x: 4.3400264, y: 6.849541, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 26
+=======
+  m_RootOrder: 8
+>>>>>>> 351cf816c371dfca9281a0388228912b7b684410
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &488608287
 MonoBehaviour:
@@ -24868,7 +24892,7 @@ MonoBehaviour:
       - fsmEvent:
           name: TRIGGER ENTER
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -24915,7 +24939,7 @@ MonoBehaviour:
     events:
     - name: TRIGGER ENTER
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     globalTransitions: []
     variables:
       floatVariables: []
@@ -26182,11 +26206,19 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 581930685}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: -209.32, y: -42.31, z: 136.91}
   m_LocalScale: {x: 15, y: 1, z: 16.905336}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 39
+=======
+  m_LocalPosition: {x: -209.32, y: -44.4, z: 136}
+  m_LocalScale: {x: 15, y: 1, z: 16.905336}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 21
+>>>>>>> 351cf816c371dfca9281a0388228912b7b684410
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &583672741
 GameObject:
@@ -26747,7 +26779,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -26852,7 +26884,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -26944,7 +26976,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -27394,7 +27426,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -27566,7 +27598,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -27738,7 +27770,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -27910,7 +27942,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -28082,7 +28114,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 4
         linkStyle: 0
         linkConstraint: 0
@@ -28254,7 +28286,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -28426,7 +28458,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -28685,7 +28717,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -28793,7 +28825,11 @@ Transform:
   - {fileID: 1618916425}
   - {fileID: 1736910947}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 32
+=======
+  m_RootOrder: 14
+>>>>>>> 351cf816c371dfca9281a0388228912b7b684410
   m_LocalEulerAnglesHint: {x: 180, y: 180, z: 0}
 --- !u!1 &585187048
 GameObject:
@@ -29753,7 +29789,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -29858,7 +29894,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -29950,7 +29986,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -31020,7 +31056,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -31125,7 +31161,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -31217,7 +31253,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -31991,7 +32027,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -32096,7 +32132,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -32188,7 +32224,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -32946,7 +32982,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -33051,7 +33087,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -33143,7 +33179,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -34327,7 +34363,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -34432,7 +34468,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -34524,7 +34560,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -35710,7 +35746,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -35815,7 +35851,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -35907,7 +35943,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -36357,7 +36393,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -36529,7 +36565,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -36701,7 +36737,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -36873,7 +36909,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -37045,7 +37081,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 4
         linkStyle: 0
         linkConstraint: 0
@@ -37217,7 +37253,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -37389,7 +37425,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -37648,7 +37684,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -37756,7 +37792,11 @@ Transform:
   - {fileID: 2056745648}
   - {fileID: 1002489776}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 33
+=======
+  m_RootOrder: 15
+>>>>>>> 351cf816c371dfca9281a0388228912b7b684410
   m_LocalEulerAnglesHint: {x: 180, y: 0, z: 0}
 --- !u!1001 &748163464
 Prefab:
@@ -39081,7 +39121,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -39186,7 +39226,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -39278,7 +39318,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -41133,7 +41173,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -41238,7 +41278,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -41330,7 +41370,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -41780,7 +41820,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -41952,7 +41992,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -42124,7 +42164,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -42296,7 +42336,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -42468,7 +42508,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 4
         linkStyle: 0
         linkConstraint: 0
@@ -42640,7 +42680,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -42812,7 +42852,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -43071,7 +43111,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -43179,7 +43219,11 @@ Transform:
   - {fileID: 2129101179}
   - {fileID: 944706773}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 30
+=======
+  m_RootOrder: 12
+>>>>>>> 351cf816c371dfca9281a0388228912b7b684410
   m_LocalEulerAnglesHint: {x: 180, y: 180, z: 0}
 --- !u!1001 &840838092
 Prefab:
@@ -43908,7 +43952,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -44013,7 +44057,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -44105,7 +44149,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -44555,7 +44599,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -44727,7 +44771,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -44899,7 +44943,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -45071,7 +45115,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -45243,7 +45287,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 4
         linkStyle: 0
         linkConstraint: 0
@@ -45415,7 +45459,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -45587,7 +45631,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -45846,7 +45890,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -45954,7 +45998,11 @@ Transform:
   - {fileID: 100101702}
   - {fileID: 514832538}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 34
+=======
+  m_RootOrder: 16
+>>>>>>> 351cf816c371dfca9281a0388228912b7b684410
   m_LocalEulerAnglesHint: {x: 180, y: 0, z: 0}
 --- !u!1001 &890171128
 Prefab:
@@ -48298,6 +48346,7 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1076238933}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!1 &1090123910
 GameObject:
   m_ObjectHideFlags: 0
@@ -48348,6 +48397,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> 351cf816c371dfca9281a0388228912b7b684410
 --- !u!1 &1098192888
 GameObject:
   m_ObjectHideFlags: 0
@@ -48912,7 +48963,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -49017,7 +49068,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -49109,7 +49160,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -50025,7 +50076,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -50130,7 +50181,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -50222,7 +50273,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -51084,7 +51135,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -51189,7 +51240,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -51281,7 +51332,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -53063,7 +53114,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -53168,7 +53219,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -53260,7 +53311,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -54375,7 +54426,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -54480,7 +54531,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -54572,7 +54623,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -55648,7 +55699,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -55753,7 +55804,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -55845,7 +55896,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -56982,7 +57033,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -57087,7 +57138,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -57179,7 +57230,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -57629,7 +57680,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -57801,7 +57852,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -57973,7 +58024,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -58145,7 +58196,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -58317,7 +58368,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 4
         linkStyle: 0
         linkConstraint: 0
@@ -58489,7 +58540,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -58661,7 +58712,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -58920,7 +58971,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -59028,7 +59079,11 @@ Transform:
   - {fileID: 1486683680}
   - {fileID: 915071981}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 36
+=======
+  m_RootOrder: 18
+>>>>>>> 351cf816c371dfca9281a0388228912b7b684410
   m_LocalEulerAnglesHint: {x: 180, y: 180, z: 0}
 --- !u!1 &1378013593
 GameObject:
@@ -60667,7 +60722,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -60772,7 +60827,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -60864,7 +60919,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -61810,7 +61865,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -61915,7 +61970,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -62007,7 +62062,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -62998,7 +63053,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -63103,7 +63158,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -63195,7 +63250,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -63645,7 +63700,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -63817,7 +63872,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -63989,7 +64044,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -64161,7 +64216,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -64333,7 +64388,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 4
         linkStyle: 0
         linkConstraint: 0
@@ -64505,7 +64560,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -64677,7 +64732,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -64936,7 +64991,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -65044,7 +65099,11 @@ Transform:
   - {fileID: 1883851170}
   - {fileID: 1607844699}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 37
+=======
+  m_RootOrder: 19
+>>>>>>> 351cf816c371dfca9281a0388228912b7b684410
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!1001 &1531646957
 Prefab:
@@ -65656,7 +65715,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -65761,7 +65820,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -65853,7 +65912,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -66925,7 +66984,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -67030,7 +67089,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -67122,7 +67181,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -67850,7 +67909,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -67955,7 +68014,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -68047,7 +68106,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -69170,7 +69229,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -69275,7 +69334,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -69367,7 +69426,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -69633,7 +69692,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1630248309}
   m_Layer: 0
-  m_Name: RespawnPoint1 (4)
+  m_Name: Respawnpartedue
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -69647,11 +69706,19 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1630248308}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: -208.1, y: 7.403, z: 130.32}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 40
+=======
+  m_LocalPosition: {x: -208.1, y: 7.403, z: 132.15}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 22
+>>>>>>> 351cf816c371dfca9281a0388228912b7b684410
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1639468894
 Prefab:
@@ -71568,7 +71635,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -71673,7 +71740,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -71765,7 +71832,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -72648,7 +72715,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -72753,7 +72820,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -72845,7 +72912,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -73295,7 +73362,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -73467,7 +73534,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -73639,7 +73706,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -73811,7 +73878,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -73983,7 +74050,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 4
         linkStyle: 0
         linkConstraint: 0
@@ -74155,7 +74222,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -74327,7 +74394,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -74586,7 +74653,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -74694,7 +74761,11 @@ Transform:
   - {fileID: 364539347}
   - {fileID: 312508605}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 28
+=======
+  m_RootOrder: 10
+>>>>>>> 351cf816c371dfca9281a0388228912b7b684410
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
 --- !u!1001 &1781764895
 Prefab:
@@ -75368,7 +75439,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -75473,7 +75544,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -75565,7 +75636,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -75921,7 +75992,11 @@ Transform:
   - {fileID: 1284607528}
   - {fileID: 40738443}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 24
+=======
+  m_RootOrder: 6
+>>>>>>> 351cf816c371dfca9281a0388228912b7b684410
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1827283220
 GameObject:
@@ -76487,7 +76562,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -76592,7 +76667,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -76684,7 +76759,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -77763,7 +77838,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -77868,7 +77943,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -77960,7 +78035,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -78964,7 +79039,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -79069,7 +79144,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -79161,7 +79236,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -80049,7 +80124,11 @@ Transform:
   - {fileID: 298240761}
   - {fileID: 1507038915}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 25
+=======
+  m_RootOrder: 7
+>>>>>>> 351cf816c371dfca9281a0388228912b7b684410
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1941588152
 Prefab:
@@ -81682,7 +81761,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -81787,7 +81866,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -81879,7 +81958,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -82329,7 +82408,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -82501,7 +82580,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -82673,7 +82752,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -82845,7 +82924,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 2
         linkStyle: 0
         linkConstraint: 0
@@ -83017,7 +83096,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 4
         linkStyle: 0
         linkConstraint: 0
@@ -83189,7 +83268,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: State 3
         linkStyle: 0
         linkConstraint: 0
@@ -83361,7 +83440,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: Ferma
         linkStyle: 0
         linkConstraint: 0
@@ -83620,7 +83699,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -83728,7 +83807,11 @@ Transform:
   - {fileID: 1117180199}
   - {fileID: 1891976776}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 27
+=======
+  m_RootOrder: 9
+>>>>>>> 351cf816c371dfca9281a0388228912b7b684410
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2006337415
 GameObject:
@@ -84942,7 +85025,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -85047,7 +85130,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -85139,7 +85222,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -86255,7 +86338,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -86360,7 +86443,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -86452,7 +86535,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -86723,7 +86806,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 41
+=======
+  m_RootOrder: 23
+>>>>>>> 351cf816c371dfca9281a0388228912b7b684410
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2092780497
 GameObject:
@@ -87373,7 +87460,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -87478,7 +87565,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -87570,7 +87657,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
@@ -89188,7 +89275,11 @@ Transform:
   - {fileID: 1489080614}
   - {fileID: 805600364}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 23
+=======
+  m_RootOrder: 5
+>>>>>>> 351cf816c371dfca9281a0388228912b7b684410
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &2128226566
 MonoBehaviour:
@@ -89992,7 +90083,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -90097,7 +90188,7 @@ MonoBehaviour:
       - fsmEvent:
           name: FINISHED
           isSystemEvent: 1
-          isGlobal: 1
+          isGlobal: 0
         toState: E ora?
         linkStyle: 0
         linkConstraint: 0
@@ -90189,7 +90280,7 @@ MonoBehaviour:
     events:
     - name: FINISHED
       isSystemEvent: 1
-      isGlobal: 1
+      isGlobal: 0
     - name: Accorcia
       isSystemEvent: 0
       isGlobal: 1
